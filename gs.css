@@ -56,7 +56,12 @@
     padding: 15px;
     border-bottom: 6px solid #a22323; 
   }
-
+  tr:nth-child(even) {
+    background-color: aquamarine;
+  }
+  tr:nth-child(odd) {
+    background-color: aqua;
+}
   .Luke:hover{
     width: 100px;
     height: 30px;
