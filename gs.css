@@ -1,0 +1,28 @@
+.speech{
+    font-style: italic;
+    color:black;
+}
+
+.direction{
+    font-style: Serif;
+    color:black;
+    font-size: 15px;
+    background-color: coral;
+
+}
+
+.direction:hover {
+    background-color: yellow;
+    color:blue;
+    font-size: 15px;
+  }
+
+  .Luke{
+    background-color: cyan;
+    font-style: Serif;
+  }
+
+  .Revenue{
+    background-color: pink;
+    font-style:Sans-serif ;
+  }
